@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/play-klein.png</file>
+        <file>images/zurueck.png</file>
+        <file>images/vor.png</file>
+        <file>images/noCover.png</file>
+    </qresource>
+</RCC>
